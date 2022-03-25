@@ -5,7 +5,9 @@
     <a href="https://www.instagram.com/spets_project_210s/">
       <img src="../static/instagram.png" class="w-16 h-16 flex inline-flex object-center">
     </a>
-    
+    <a href="">
+      <img src="" alt="">
+    </a>
     </div>
    </div>
   </div>
