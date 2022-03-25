@@ -5,5 +5,5 @@ description: A gorgeous city on the island Hawaii
 title: Hanalulu Hawaii
 ---
 
-# info
+# This will contain info about Hanalulu
 
