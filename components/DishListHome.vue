@@ -1,7 +1,7 @@
 <template>
-<div class="text-center">
-  <h3 class="relative right-8 text-2xl">{{item.title}}</h3>
-  <img :src="item.image" alt="destination image" class="h-80 w-64 object-cover" >
+<div class="text-center object-center mb-24">
+  <h3 class="text-2xl text-center flex inline-flex">{{item.title}}</h3>
+  <img :src="item.image" alt="destination image" class="h-80 w-64 object-cover object-center flex inline-flex" >
 </div>
 </template>
 
