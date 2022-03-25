@@ -2,7 +2,9 @@
 <nav class="justify-between flex-wrap bg-indigo-500 p-6">
   <div class="text-center flex-shrink-0 text-black mr-6">
   <div>
+  <a href="/">
   <img src="../static/logo full.png" alt="Our Logo" class="flex inline-flex justify-center object-center h-160 w-160">
+  </a>
   </div>
   <div>
     <span class="text-center font-semibold text-3xl tracking-tight mt-2 relative left-3">Beautiful Places</span>
