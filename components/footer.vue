@@ -6,7 +6,7 @@
       <img src="../static/instagram.png" class="w-16 h-16 flex inline-flex object-center">
     </a>
     <a href="">
-      <img src="" alt="">
+      <img src="" alt="image to website" class="w-16 h-16 flex inline-flex object-center" >
     </a>
     </div>
    </div>
