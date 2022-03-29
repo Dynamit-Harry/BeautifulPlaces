@@ -1,7 +1,7 @@
 <template>
 <div class="min-h-screen bg-indigo-400">
   <div class="bg-indigo-400 text-center border-rounded">
-    <p class="text-xl mt-12">Have you ever dreamed about flying away to an exotic island?</p>
+    <p class="text-xl ">Have you ever dreamed about flying away to an exotic island?</p>
     <p class="text-xl mt-6">Are you having a hard time finding the destination that is right for you?</p>
     <p class="text-xl mt-6">This website will help!</p>
     <p class="text-xl mt-6">Here you wil find lots beautiful and exotic destinations around the world</p>
