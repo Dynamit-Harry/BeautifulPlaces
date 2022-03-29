@@ -11,6 +11,7 @@
     </div>
   </div>
 </template>
+
 <script>
 export default {
     async asyncData({$content, params}) {
