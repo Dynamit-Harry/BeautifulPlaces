@@ -11,7 +11,7 @@
 <div class="text-center absolute ">
   <p class="text-xl">These are our latest posts: </p>
 </div>
-  <div @click="goToDish(destination.id)" class="w-80 m-4 mt-10" v-for="destination in places" :key="destination.id">
+  <div @click="goToDish(destination.id)" class="w-80 m-4 mt-10 shadow-2xl" v-for="destination in places" :key="destination.id">
       <DishListHome :item="destination"></DishListHome>
       </div>
     </div>

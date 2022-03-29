@@ -3,7 +3,7 @@
   <div class="text-center flex-shrink-0 text-black mr-6">
   <div>
   <a href="/">
-  <img src="../static/logo full.png" alt="Our Logo" class="flex inline-flex justify-center object-center h-160 w-160">
+  <img src="../static/logo full.png" alt="Our Logo" class="flex inline-flex justify-center object-center h-128 w-128">
   </a>
   </div>
   <div>

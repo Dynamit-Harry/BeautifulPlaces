@@ -1,7 +1,7 @@
 <template>
-<div class="min-h-screen bg-indigo-400 mb-32">
+<div class="min-h-screen bg-indigo-400 mb-48">
     <div class="flex flex-wrap justify-center relative top-24">
-    <div @click="goToDish(destination.id)" class="w-80 m-4" v-for="destination in places" :key="destination.id">
+    <div @click="goToDish(destination.id)" class="w-64 m-8 shadow-2xl" v-for="destination in places" :key="destination.id">
       <DishListItem :item="destination"></DishListItem>
     </div>
   </div>
