@@ -5,8 +5,8 @@
     <a href="https://www.instagram.com/Neo_f_projekt/">
       <img src="../static/instagram.png" class="w-16 h-16 flex inline-flex object-center">
     </a>
-    <a href="">
-      <img src="" alt="image to website" class="w-16 h-16 flex inline-flex object-center" >
+    <a href="https://github.com/Dynamit-Harry/BeautifulPlaces">
+      <img src="../static/github.png" alt="image to website" class="w-12 h-12 relative top-2 flex inline-flex object-center" >
     </a>
     </div>
    </div>

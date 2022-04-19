@@ -35,7 +35,9 @@ export default {
       options: [
         {id: 1, name: "new", label: "New"},
         {id: 2, name: "old", label: "Old"}
-        ]
+        ],
+
+      turned: false,
     }
   },
   methods: {
@@ -44,15 +46,28 @@ export default {
     },
   },
   watch: {
-    selected: function(val) {
+    selected: function(turned, val) {
       console.log(val)
-      if(val == 1) {
+      if(val == 1){
+        if(turned == false){
         this.places = this.places.reverse()
-      } else if(val == 2) {
-        this.places = this.places.reverse()
+        turned = true
+        console.log(turned);
+        }else{
+          this.places = this.places
+        }
       }
-
-    }
+      else if(val == 2) {
+        if(turned == true){
+        this.places = this.places.reverse()
+        turned = false
+        console.log(turned);
+        }else{
+          this.places = this.places
+          console.log(turned);
+        }
+      }
+    },
   }
 }
 </script>

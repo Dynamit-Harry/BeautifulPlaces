@@ -1,5 +1,5 @@
 <template>
-<nav class="justify-between flex-wrap bg-indigo-500 p-6 mr-2 ml-2 mt-2">
+<nav class="shadow-2xl justify-between flex-wrap bg-indigo-500 p-6 mr-2 ml-2 mt-2">
   <div class="text-center flex-shrink-0 text-black mr-6">
   <div>
   <a href="/">
