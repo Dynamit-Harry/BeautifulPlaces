@@ -5,5 +5,19 @@ description: A gorgeous island called Hawaii
 title: Hawaii
 ---
 
-# This will contain info about Hawaii
+# This will contain info about Hawaii <br>
+
+## Oh by the way, did you know<br>
+   
+* From East to west, Hawaii is the widest sate in the USA.
+* There are only 12 letters in the Hawaiian alphabet.
+* Hawaii has its own time zone, The Hawaiian Stand Time. 
+* Hawaii has no Racial or Ethnic Majorities of any kind. 
+* The island of Oahu has the world's largest Wind Turbine.
+
+### The best beaches on Hawaii by votes are: <br>
+
+* Kaanapali Beach - Maui.
+* Ko Olina Beach - Oahu.
+* Poipu Beach - Kauai.
 
