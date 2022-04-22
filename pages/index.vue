@@ -7,7 +7,7 @@
     <p class="text-xl mt-6">Here you wil find lots beautiful and exotic destinations around the world</p>
     <p class="text-xl mt-6">To move around the website, use the navigation section in the top right corner!</p>
   </div>
-<div class="flex flex-wrap justify-center relative top-16">
+<div class="flex flex-wrap justify-center relative top-16 mb-32">
 <div class="text-center absolute ">
   <p class="text-xl">These are our latest posts: </p>
 </div>
