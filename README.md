@@ -1,4 +1,4 @@
-# bloggTest
+# BeautifulPlaces
 
 ## Build Setup
 
